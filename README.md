@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Preview 
+## Preview 
 
-![alt text](http://url/to/calc2.png)
+<img src="calc2.png" alt="Calculadora"/>
 
 ## Available Scripts
 
