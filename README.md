@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Preview 
+
+![alt text](http://url/to/calc2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
